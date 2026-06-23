@@ -400,6 +400,43 @@
         "RemoteSha": "0.5.5"
       }
     },
+    "curl": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "curl",
+        "Type": "Package",
+        "Title": "A Modern and Flexible Web Client for R",
+        "Version": "7.1.0",
+        "Authors@R": "c(\n    person(\"Jeroen\", \"Ooms\", role = c(\"aut\", \"cre\"), email = \"jeroenooms@gmail.com\",\n      comment = c(ORCID = \"0000-0002-4035-0289\")),\n    person(\"Hadley\", \"Wickham\", role = \"ctb\"),\n    person(\"Posit Software, PBC\", role = \"cph\"))",
+        "Description": "Bindings to 'libcurl' <https://curl.se/libcurl/> for performing fully\n    configurable HTTP/FTP requests where responses can be processed in memory, on\n    disk, or streaming via the callback or connection interfaces. Some knowledge\n    of 'libcurl' is recommended; for a more-user-friendly web client see the \n    'httr2' package which builds on this package with http specific tools and logic.",
+        "License": "MIT + file LICENSE",
+        "SystemRequirements": "libcurl (>= 7.73): libcurl-devel (rpm) or\nlibcurl4-openssl-dev (deb)",
+        "URL": "https://jeroen.r-universe.dev/curl",
+        "BugReports": "https://github.com/jeroen/curl/issues",
+        "Suggests": "spelling, testthat (>= 1.0.0), knitr, jsonlite, later,\nrmarkdown, httpuv (>= 1.4.4), webutils",
+        "VignetteBuilder": "knitr",
+        "Depends": "R (>= 3.0.0)",
+        "RoxygenNote": "7.3.2",
+        "Encoding": "UTF-8",
+        "Language": "en-US",
+        "NeedsCompilation": "yes",
+        "Packaged": "2026-04-21 14:47:54 UTC; jeroen",
+        "Author": "Jeroen Ooms [aut, cre] (ORCID: <https://orcid.org/0000-0002-4035-0289>),\n  Hadley Wickham [ctb],\n  Posit Software, PBC [cph]",
+        "Maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
+        "Repository": "CRAN",
+        "Date/Publication": "2026-04-22 09:40:02 UTC",
+        "Built": "R 4.5.3; x86_64-w64-mingw32; 2026-05-09 00:51:02 UTC; windows",
+        "Archs": "x64",
+        "RemoteType": "standard",
+        "RemoteRef": "curl",
+        "RemotePkgRef": "curl",
+        "RemoteRepos": "https://cran.rstudio.com",
+        "RemoteReposName": "CRAN",
+        "RemotePkgPlatform": "x86_64-w64-mingw32",
+        "RemoteSha": "7.1.0"
+      }
+    },
     "digest": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -2034,7 +2071,7 @@
   },
   "files": {
     ".Rprofile": {
-      "checksum": "27836e0ac079faa0de45f31a18419e88"
+      "checksum": "bfa76ff7d8d1b5d5185528a761aed468"
     },
     "_brand.yml": {
       "checksum": "7611584355bc653e6180657bf2fa9ea9"
@@ -2064,7 +2101,7 @@
       "checksum": "3f31790bca6ea7cd7cc5ee2db744410b"
     },
     "global.R": {
-      "checksum": "a6276a81b44f4d835e9d709fecbdb384"
+      "checksum": "be7fc086df3379c80fad243ccfebf1e1"
     },
     "logos/icon/bg_white_satom_icon.png": {
       "checksum": "8e59e4b016ad6f20bd7e815b74159aab"
@@ -2088,7 +2125,7 @@
       "checksum": "45573e79b5e8b85ae3fcfc9d57a2e259"
     },
     "renv.lock": {
-      "checksum": "5a9e1e542b5e388a0d065cedf1a85681"
+      "checksum": "4982d131ace00c812ae82945b9fb2415"
     },
     "server.R": {
       "checksum": "138fcf04ba9558c985388f608a25d3fb"
