@@ -1,0 +1,16 @@
+# R / RStudio / Positron
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+
+# renv (if you set it up — see README)
+renv/library/
+renv/staging/
+renv/python/
+renv/sandbox/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,108 @@
+{
+    "languages": [
+        "en",
+        "it"
+    ],
+    "translation": [
+        {
+            "en": "Title SVG / PNG Generator — Japanese Google Fonts",
+            "it": "Generatore di titoli SVG / PNG — Font Google giapponesi"
+        },
+        {
+            "en": "Title text (max 28 Japanese characters)",
+            "it": "Testo del titolo (massimo 28 caratteri giapponesi)"
+        },
+        {
+            "en": "Font category (multiple selection)",
+            "it": "Categoria del font (selezione multipla)"
+        },
+        {
+            "en": "Japanese Google Font",
+            "it": "Font giapponese di Google"
+        },
+        {
+            "en": "Font size (pt)",
+            "it": "Dimensione del font (pt)"
+        },
+        {
+            "en": "Font face",
+            "it": "Stile del font"
+        },
+        {
+            "en": "Plain",
+            "it": "Normale"
+        },
+        {
+            "en": "Bold",
+            "it": "Grassetto"
+        },
+        {
+            "en": "Font color (hex)",
+            "it": "Colore del font (hex)"
+        },
+        {
+            "en": "Background color (hex, blank = transparent)",
+            "it": "Colore di sfondo (hex, vuoto = trasparente)"
+        },
+        {
+            "en": "File type",
+            "it": "Tipo di file"
+        },
+        {
+            "en": "Download",
+            "it": "Scarica"
+        },
+        {
+            "en": "Most Japanese Google Fonts have no italic style, so only",
+            "it": "La maggior parte dei font giapponesi di Google non ha uno stile corsivo, quindi sono disponibili solo"
+        },
+        {
+            "en": "Plain / Bold are offered here. The first time you pick a",
+            "it": "Normale / Grassetto. La prima volta che selezioni un"
+        },
+        {
+            "en": "font it is downloaded from Google Fonts, so this needs an",
+            "it": "font, questo viene scaricato da Google Fonts, quindi è necessaria una"
+        },
+        {
+            "en": "internet connection.",
+            "it": "connessione a internet."
+        },
+        {
+            "en": "Category: ",
+            "it": "Categoria: "
+        },
+        {
+            "en": "Purpose: ",
+            "it": "Scopo: "
+        },
+        {
+            "en": "Impression: ",
+            "it": "Impressione: "
+        },
+        {
+            "en": "Select at least one font category to choose a font.",
+            "it": "Seleziona almeno una categoria di font per scegliere un font."
+        },
+        {
+            "en": "Please enter some text.",
+            "it": "Inserisci del testo."
+        },
+        {
+            "en": "Font color must be a valid hex code, e.g. #FF0000",
+            "it": "Il colore del font deve essere un codice hex valido, es. #FF0000"
+        },
+        {
+            "en": "Background color must be a valid hex code, e.g. #FFFFFF, or left blank",
+            "it": "Il colore di sfondo deve essere un codice hex valido, es. #FFFFFF, oppure lasciato vuoto"
+        },
+        {
+            "en": "Limit is 28 characters — only the first 28 will be used (you typed %d).",
+            "it": "Il limite è di 28 caratteri — verranno usati solo i primi 28 (ne hai digitati %d)."
+        },
+        {
+            "en": "If you need Japanese proofreading, SATOM will help you.",
+            "it": "Se hai bisogno di una revisione del giapponese, SATOM può aiutarti."
+        }
+    ]
+}
