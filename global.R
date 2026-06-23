@@ -34,7 +34,7 @@ library(ggplot2)
 library(sysfonts)
 library(showtext)
 library(svglite)
-library(brand.yml)
+
 # Render text with showtext on every graphics device (preview + export)
 showtext_auto()
 showtext_opts(dpi = 300)
