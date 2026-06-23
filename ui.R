@@ -23,7 +23,7 @@ ui <- fluidPage(
   titlePanel(i18n$t("Title SVG / PNG Generator — Japanese Google Fonts")),
 
   shiny.info::info_panel(
-    shiny.info::git_info(),
+    # shiny.info::git_info(),
     shiny.info::powered_by("SATOM OÜ", link = "https://satom.eu"),
     position = "bottom left"
   ),
