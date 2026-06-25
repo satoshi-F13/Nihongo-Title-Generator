@@ -99,11 +99,7 @@ ui <- fluidPage(
       plotOutput("preview", height = "320px"),
       tags$hr(),
       uiOutput("font_info"),
-      tags$p(
-        i18n$t("If you need Japanese proofreading, SATOM will help you."),
-        tags$br(),
-        tags$a(href = "https://satom.eu/contact", "https://satom.eu/contact")
-      )
+      uiOutput("contact_info")
     )
   )
 )

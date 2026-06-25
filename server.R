@@ -116,6 +116,22 @@ server <- function(input, output, session) {
     )
   })
 
+  output$contact_info <- renderUI({
+    contact_url <- i18n$t("https://satom.eu/contact")
+
+    tags$p(
+      i18n$t(
+        "If you need Japanese proofreading or any advice, SATOM will help you."
+      ),
+      tags$br(),
+      tags$a(href = contact_url, contact_url),
+      tags$br(),
+      i18n$t("The font source can be downloaded from "),
+      tags$a(href = "https://fonts.google.com/", "Google Fonts"),
+      "."
+    )
+  })
+
   output$preview <- renderPlot(
     {
       title_data()$plot
